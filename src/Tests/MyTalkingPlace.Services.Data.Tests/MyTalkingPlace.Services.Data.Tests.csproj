@@ -27,8 +27,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Data\AspNetCoreTemplate.Data\AspNetCoreTemplate.Data.csproj" />
-    <ProjectReference Include="..\..\Services\AspNetCoreTemplate.Services.Data\AspNetCoreTemplate.Services.Data.csproj" />
+    <ProjectReference Include="..\..\Data\MyTalkingPlace.Data\MyTalkingPlace.Data.csproj" />
+    <ProjectReference Include="..\..\Services\MyTalkingPlace.Services.Data\MyTalkingPlace.Services.Data.csproj" />
   </ItemGroup>
 
 </Project>

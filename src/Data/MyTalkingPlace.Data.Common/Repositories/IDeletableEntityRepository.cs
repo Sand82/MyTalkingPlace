@@ -1,8 +1,8 @@
-﻿namespace AspNetCoreTemplate.Data.Common.Repositories
+﻿namespace MyTalkingPlace.Data.Common.Repositories
 {
     using System.Linq;
 
-    using AspNetCoreTemplate.Data.Common.Models;
+    using MyTalkingPlace.Data.Common.Models;
 
     public interface IDeletableEntityRepository<TEntity> : IRepository<TEntity>
         where TEntity : class, IDeletableEntity

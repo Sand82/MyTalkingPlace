@@ -33,14 +33,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\AspNetCoreTemplate.Common\AspNetCoreTemplate.Common.csproj" />
-    <ProjectReference Include="..\..\Data\AspNetCoreTemplate.Data.Common\AspNetCoreTemplate.Data.Common.csproj" />
-    <ProjectReference Include="..\..\Data\AspNetCoreTemplate.Data.Models\AspNetCoreTemplate.Data.Models.csproj" />
-    <ProjectReference Include="..\..\Data\AspNetCoreTemplate.Data\AspNetCoreTemplate.Data.csproj" />
-    <ProjectReference Include="..\..\Services\AspNetCoreTemplate.Services.Data\AspNetCoreTemplate.Services.Data.csproj" />
-    <ProjectReference Include="..\..\Services\AspNetCoreTemplate.Services.Mapping\AspNetCoreTemplate.Services.Mapping.csproj" />
-    <ProjectReference Include="..\..\Services\AspNetCoreTemplate.Services.Messaging\AspNetCoreTemplate.Services.Messaging.csproj" />
-    <ProjectReference Include="..\..\Services\AspNetCoreTemplate.Services\AspNetCoreTemplate.Services.csproj" />
+    <ProjectReference Include="..\..\MyTalkingPlace.Common\MyTalkingPlace.Common.csproj" />
+    <ProjectReference Include="..\..\Data\MyTalkingPlace.Data.Common\MyTalkingPlace.Data.Common.csproj" />
+    <ProjectReference Include="..\..\Data\MyTalkingPlace.Data.Models\MyTalkingPlace.Data.Models.csproj" />
+    <ProjectReference Include="..\..\Data\MyTalkingPlace.Data\MyTalkingPlace.Data.csproj" />
+    <ProjectReference Include="..\..\Services\MyTalkingPlace.Services.Data\MyTalkingPlace.Services.Data.csproj" />
+    <ProjectReference Include="..\..\Services\MyTalkingPlace.Services.Mapping\MyTalkingPlace.Services.Mapping.csproj" />
+    <ProjectReference Include="..\..\Services\MyTalkingPlace.Services.Messaging\MyTalkingPlace.Services.Messaging.csproj" />
+    <ProjectReference Include="..\..\Services\MyTalkingPlace.Services\MyTalkingPlace.Services.csproj" />
   </ItemGroup>
 
 </Project>

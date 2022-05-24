@@ -1,0 +1,12 @@
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Mapping\bin\Debug\net6.0\MyTalkingPlace.Services.Mapping.deps.json
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Mapping\bin\Debug\net6.0\MyTalkingPlace.Services.Mapping.dll
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Mapping\bin\Debug\net6.0\ref\MyTalkingPlace.Services.Mapping.dll
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Mapping\bin\Debug\net6.0\MyTalkingPlace.Services.Mapping.pdb
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Mapping\obj\Debug\net6.0\MyTalkingPlace.Services.Mapping.csproj.AssemblyReference.cache
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Mapping\obj\Debug\net6.0\MyTalkingPlace.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Mapping\obj\Debug\net6.0\MyTalkingPlace.Services.Mapping.AssemblyInfoInputs.cache
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Mapping\obj\Debug\net6.0\MyTalkingPlace.Services.Mapping.AssemblyInfo.cs
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Mapping\obj\Debug\net6.0\MyTalkingPlace.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Mapping\obj\Debug\net6.0\MyTalkingPlace.Services.Mapping.dll
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Mapping\obj\Debug\net6.0\ref\MyTalkingPlace.Services.Mapping.dll
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Mapping\obj\Debug\net6.0\MyTalkingPlace.Services.Mapping.pdb

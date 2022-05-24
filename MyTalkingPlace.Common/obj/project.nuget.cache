@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xy8atdkMqWKUiQe/gqa/Ux3nwJ9LBKNw86bSHBVBEiMRiqESkZlqGNVaSEWG+kQAP7efUXpzrx4+4G6BKL2Hdg==",
+  "success": true,
+  "projectFilePath": "C:\\MyTalkingPlace\\MyTalkingPlace.Common\\MyTalkingPlace.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sando\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\sando\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

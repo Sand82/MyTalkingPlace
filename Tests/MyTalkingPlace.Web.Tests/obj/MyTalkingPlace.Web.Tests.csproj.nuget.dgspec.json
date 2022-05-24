@@ -1,0 +1,929 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MyTalkingPlace\\Tests\\MyTalkingPlace.Web.Tests\\MyTalkingPlace.Web.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Common\\MyTalkingPlace.Data.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Common\\MyTalkingPlace.Data.Common.csproj",
+        "projectName": "MyTalkingPlace.Data.Common",
+        "projectPath": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Common\\MyTalkingPlace.Data.Common.csproj",
+        "packagesPath": "C:\\Users\\sando\\.nuget\\packages\\",
+        "outputPath": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Models\\MyTalkingPlace.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Models\\MyTalkingPlace.Data.Models.csproj",
+        "projectName": "MyTalkingPlace.Data.Models",
+        "projectPath": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Models\\MyTalkingPlace.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\sando\\.nuget\\packages\\",
+        "outputPath": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Common\\MyTalkingPlace.Data.Common.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Common\\MyTalkingPlace.Data.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data\\MyTalkingPlace.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data\\MyTalkingPlace.Data.csproj",
+        "projectName": "MyTalkingPlace.Data",
+        "projectPath": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data\\MyTalkingPlace.Data.csproj",
+        "packagesPath": "C:\\Users\\sando\\.nuget\\packages\\",
+        "outputPath": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Common\\MyTalkingPlace.Data.Common.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Common\\MyTalkingPlace.Data.Common.csproj"
+              },
+              "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Models\\MyTalkingPlace.Data.Models.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Models\\MyTalkingPlace.Data.Models.csproj"
+              },
+              "C:\\MyTalkingPlace\\MyTalkingPlace.Common\\MyTalkingPlace.Common.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\MyTalkingPlace.Common\\MyTalkingPlace.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyTalkingPlace\\MyTalkingPlace.Common\\MyTalkingPlace.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyTalkingPlace\\MyTalkingPlace.Common\\MyTalkingPlace.Common.csproj",
+        "projectName": "MyTalkingPlace.Common",
+        "projectPath": "C:\\MyTalkingPlace\\MyTalkingPlace.Common\\MyTalkingPlace.Common.csproj",
+        "packagesPath": "C:\\Users\\sando\\.nuget\\packages\\",
+        "outputPath": "C:\\MyTalkingPlace\\MyTalkingPlace.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Data\\MyTalkingPlace.Services.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Data\\MyTalkingPlace.Services.Data.csproj",
+        "projectName": "MyTalkingPlace.Services.Data",
+        "projectPath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Data\\MyTalkingPlace.Services.Data.csproj",
+        "packagesPath": "C:\\Users\\sando\\.nuget\\packages\\",
+        "outputPath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Common\\MyTalkingPlace.Data.Common.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Common\\MyTalkingPlace.Data.Common.csproj"
+              },
+              "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Models\\MyTalkingPlace.Data.Models.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Models\\MyTalkingPlace.Data.Models.csproj"
+              },
+              "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Mapping\\MyTalkingPlace.Services.Mapping.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Mapping\\MyTalkingPlace.Services.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Mapping\\MyTalkingPlace.Services.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Mapping\\MyTalkingPlace.Services.Mapping.csproj",
+        "projectName": "MyTalkingPlace.Services.Mapping",
+        "projectPath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Mapping\\MyTalkingPlace.Services.Mapping.csproj",
+        "packagesPath": "C:\\Users\\sando\\.nuget\\packages\\",
+        "outputPath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Messaging\\MyTalkingPlace.Services.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Messaging\\MyTalkingPlace.Services.Messaging.csproj",
+        "projectName": "MyTalkingPlace.Services.Messaging",
+        "projectPath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Messaging\\MyTalkingPlace.Services.Messaging.csproj",
+        "packagesPath": "C:\\Users\\sando\\.nuget\\packages\\",
+        "outputPath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Sendgrid": {
+              "target": "Package",
+              "version": "[9.27.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services\\MyTalkingPlace.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services\\MyTalkingPlace.Services.csproj",
+        "projectName": "MyTalkingPlace.Services",
+        "projectPath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services\\MyTalkingPlace.Services.csproj",
+        "packagesPath": "C:\\Users\\sando\\.nuget\\packages\\",
+        "outputPath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyTalkingPlace\\Tests\\MyTalkingPlace.Web.Tests\\MyTalkingPlace.Web.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyTalkingPlace\\Tests\\MyTalkingPlace.Web.Tests\\MyTalkingPlace.Web.Tests.csproj",
+        "projectName": "MyTalkingPlace.Web.Tests",
+        "projectPath": "C:\\MyTalkingPlace\\Tests\\MyTalkingPlace.Web.Tests\\MyTalkingPlace.Web.Tests.csproj",
+        "packagesPath": "C:\\Users\\sando\\.nuget\\packages\\",
+        "outputPath": "C:\\MyTalkingPlace\\Tests\\MyTalkingPlace.Web.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web\\MyTalkingPlace.Web.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web\\MyTalkingPlace.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[100.0.4896.2000, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web.Infrastructure\\MyTalkingPlace.Web.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web.Infrastructure\\MyTalkingPlace.Web.Infrastructure.csproj",
+        "projectName": "MyTalkingPlace.Web.Infrastructure",
+        "projectPath": "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web.Infrastructure\\MyTalkingPlace.Web.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sando\\.nuget\\packages\\",
+        "outputPath": "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web.ViewModels\\MyTalkingPlace.Web.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web.ViewModels\\MyTalkingPlace.Web.ViewModels.csproj",
+        "projectName": "MyTalkingPlace.Web.ViewModels",
+        "projectPath": "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web.ViewModels\\MyTalkingPlace.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\sando\\.nuget\\packages\\",
+        "outputPath": "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Models\\MyTalkingPlace.Data.Models.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Models\\MyTalkingPlace.Data.Models.csproj"
+              },
+              "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Mapping\\MyTalkingPlace.Services.Mapping.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Mapping\\MyTalkingPlace.Services.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web\\MyTalkingPlace.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web\\MyTalkingPlace.Web.csproj",
+        "projectName": "MyTalkingPlace.Web",
+        "projectPath": "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web\\MyTalkingPlace.Web.csproj",
+        "packagesPath": "C:\\Users\\sando\\.nuget\\packages\\",
+        "outputPath": "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Models\\MyTalkingPlace.Data.Models.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data.Models\\MyTalkingPlace.Data.Models.csproj"
+              },
+              "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data\\MyTalkingPlace.Data.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Data\\MyTalkingPlace.Data\\MyTalkingPlace.Data.csproj"
+              },
+              "C:\\MyTalkingPlace\\MyTalkingPlace.Common\\MyTalkingPlace.Common.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\MyTalkingPlace.Common\\MyTalkingPlace.Common.csproj"
+              },
+              "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Data\\MyTalkingPlace.Services.Data.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Data\\MyTalkingPlace.Services.Data.csproj"
+              },
+              "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Mapping\\MyTalkingPlace.Services.Mapping.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Mapping\\MyTalkingPlace.Services.Mapping.csproj"
+              },
+              "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Messaging\\MyTalkingPlace.Services.Messaging.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Messaging\\MyTalkingPlace.Services.Messaging.csproj"
+              },
+              "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services\\MyTalkingPlace.Services.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services\\MyTalkingPlace.Services.csproj"
+              },
+              "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web.Infrastructure\\MyTalkingPlace.Web.Infrastructure.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web.Infrastructure\\MyTalkingPlace.Web.Infrastructure.csproj"
+              },
+              "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web.ViewModels\\MyTalkingPlace.Web.ViewModels.csproj": {
+                "projectPath": "C:\\MyTalkingPlace\\Web\\MyTalkingPlace.Web.ViewModels\\MyTalkingPlace.Web.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BuildBundlerMinifier": {
+              "target": "Package",
+              "version": "[3.2.449, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.Web.LibraryManager.Build": {
+              "target": "Package",
+              "version": "[2.1.161, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

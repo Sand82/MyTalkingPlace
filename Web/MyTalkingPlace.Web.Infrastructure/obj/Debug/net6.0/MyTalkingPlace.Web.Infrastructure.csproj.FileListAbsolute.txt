@@ -1,0 +1,11 @@
+C:\MyTalkingPlace\Web\MyTalkingPlace.Web.Infrastructure\bin\Debug\net6.0\MyTalkingPlace.Web.Infrastructure.deps.json
+C:\MyTalkingPlace\Web\MyTalkingPlace.Web.Infrastructure\bin\Debug\net6.0\MyTalkingPlace.Web.Infrastructure.dll
+C:\MyTalkingPlace\Web\MyTalkingPlace.Web.Infrastructure\bin\Debug\net6.0\ref\MyTalkingPlace.Web.Infrastructure.dll
+C:\MyTalkingPlace\Web\MyTalkingPlace.Web.Infrastructure\bin\Debug\net6.0\MyTalkingPlace.Web.Infrastructure.pdb
+C:\MyTalkingPlace\Web\MyTalkingPlace.Web.Infrastructure\obj\Debug\net6.0\MyTalkingPlace.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyTalkingPlace\Web\MyTalkingPlace.Web.Infrastructure\obj\Debug\net6.0\MyTalkingPlace.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\MyTalkingPlace\Web\MyTalkingPlace.Web.Infrastructure\obj\Debug\net6.0\MyTalkingPlace.Web.Infrastructure.AssemblyInfo.cs
+C:\MyTalkingPlace\Web\MyTalkingPlace.Web.Infrastructure\obj\Debug\net6.0\MyTalkingPlace.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\MyTalkingPlace\Web\MyTalkingPlace.Web.Infrastructure\obj\Debug\net6.0\MyTalkingPlace.Web.Infrastructure.dll
+C:\MyTalkingPlace\Web\MyTalkingPlace.Web.Infrastructure\obj\Debug\net6.0\ref\MyTalkingPlace.Web.Infrastructure.dll
+C:\MyTalkingPlace\Web\MyTalkingPlace.Web.Infrastructure\obj\Debug\net6.0\MyTalkingPlace.Web.Infrastructure.pdb

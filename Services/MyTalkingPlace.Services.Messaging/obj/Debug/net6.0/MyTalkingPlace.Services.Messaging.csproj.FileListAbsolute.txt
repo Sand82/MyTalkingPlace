@@ -1,0 +1,12 @@
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Messaging\bin\Debug\net6.0\MyTalkingPlace.Services.Messaging.deps.json
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Messaging\bin\Debug\net6.0\MyTalkingPlace.Services.Messaging.dll
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Messaging\bin\Debug\net6.0\ref\MyTalkingPlace.Services.Messaging.dll
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Messaging\bin\Debug\net6.0\MyTalkingPlace.Services.Messaging.pdb
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Messaging\obj\Debug\net6.0\MyTalkingPlace.Services.Messaging.csproj.AssemblyReference.cache
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Messaging\obj\Debug\net6.0\MyTalkingPlace.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Messaging\obj\Debug\net6.0\MyTalkingPlace.Services.Messaging.AssemblyInfoInputs.cache
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Messaging\obj\Debug\net6.0\MyTalkingPlace.Services.Messaging.AssemblyInfo.cs
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Messaging\obj\Debug\net6.0\MyTalkingPlace.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Messaging\obj\Debug\net6.0\MyTalkingPlace.Services.Messaging.dll
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Messaging\obj\Debug\net6.0\ref\MyTalkingPlace.Services.Messaging.dll
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services.Messaging\obj\Debug\net6.0\MyTalkingPlace.Services.Messaging.pdb

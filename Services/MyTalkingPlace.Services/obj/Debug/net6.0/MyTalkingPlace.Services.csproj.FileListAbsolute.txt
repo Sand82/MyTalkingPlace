@@ -1,0 +1,11 @@
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services\bin\Debug\net6.0\MyTalkingPlace.Services.deps.json
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services\bin\Debug\net6.0\MyTalkingPlace.Services.dll
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services\bin\Debug\net6.0\ref\MyTalkingPlace.Services.dll
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services\bin\Debug\net6.0\MyTalkingPlace.Services.pdb
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services\obj\Debug\net6.0\MyTalkingPlace.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services\obj\Debug\net6.0\MyTalkingPlace.Services.AssemblyInfoInputs.cache
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services\obj\Debug\net6.0\MyTalkingPlace.Services.AssemblyInfo.cs
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services\obj\Debug\net6.0\MyTalkingPlace.Services.csproj.CoreCompileInputs.cache
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services\obj\Debug\net6.0\MyTalkingPlace.Services.dll
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services\obj\Debug\net6.0\ref\MyTalkingPlace.Services.dll
+C:\MyTalkingPlace\Services\MyTalkingPlace.Services\obj\Debug\net6.0\MyTalkingPlace.Services.pdb

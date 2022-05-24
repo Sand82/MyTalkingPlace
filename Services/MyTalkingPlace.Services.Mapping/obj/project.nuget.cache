@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gRU8MvrFaXlhcZkPPLw0pcuWR2gCKIeUQ4fFN2iM7b40ukA6cNfD+1YDI3P+RnIKHdT3xl3n1JRTX5LH3IjLWw==",
+  "success": true,
+  "projectFilePath": "C:\\MyTalkingPlace\\Services\\MyTalkingPlace.Services.Mapping\\MyTalkingPlace.Services.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sando\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\sando\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\sando\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\sando\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

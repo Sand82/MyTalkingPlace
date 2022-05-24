@@ -1,0 +1,12 @@
+C:\MyTalkingPlace\Data\MyTalkingPlace.Data.Common\bin\Debug\net6.0\MyTalkingPlace.Data.Common.deps.json
+C:\MyTalkingPlace\Data\MyTalkingPlace.Data.Common\bin\Debug\net6.0\MyTalkingPlace.Data.Common.dll
+C:\MyTalkingPlace\Data\MyTalkingPlace.Data.Common\bin\Debug\net6.0\ref\MyTalkingPlace.Data.Common.dll
+C:\MyTalkingPlace\Data\MyTalkingPlace.Data.Common\bin\Debug\net6.0\MyTalkingPlace.Data.Common.pdb
+C:\MyTalkingPlace\Data\MyTalkingPlace.Data.Common\obj\Debug\net6.0\MyTalkingPlace.Data.Common.csproj.AssemblyReference.cache
+C:\MyTalkingPlace\Data\MyTalkingPlace.Data.Common\obj\Debug\net6.0\MyTalkingPlace.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyTalkingPlace\Data\MyTalkingPlace.Data.Common\obj\Debug\net6.0\MyTalkingPlace.Data.Common.AssemblyInfoInputs.cache
+C:\MyTalkingPlace\Data\MyTalkingPlace.Data.Common\obj\Debug\net6.0\MyTalkingPlace.Data.Common.AssemblyInfo.cs
+C:\MyTalkingPlace\Data\MyTalkingPlace.Data.Common\obj\Debug\net6.0\MyTalkingPlace.Data.Common.csproj.CoreCompileInputs.cache
+C:\MyTalkingPlace\Data\MyTalkingPlace.Data.Common\obj\Debug\net6.0\MyTalkingPlace.Data.Common.dll
+C:\MyTalkingPlace\Data\MyTalkingPlace.Data.Common\obj\Debug\net6.0\ref\MyTalkingPlace.Data.Common.dll
+C:\MyTalkingPlace\Data\MyTalkingPlace.Data.Common\obj\Debug\net6.0\MyTalkingPlace.Data.Common.pdb

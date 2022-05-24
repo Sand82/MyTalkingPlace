@@ -1,4 +1,4 @@
-﻿namespace AspNetCoreTemplate.Services.Mapping
+﻿namespace MyTalkingPlace.Services.Mapping
 {
     using AutoMapper;
 

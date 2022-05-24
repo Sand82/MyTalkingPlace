@@ -1,6 +1,6 @@
-﻿namespace AspNetCoreTemplate.Data.Configurations
+﻿namespace MyTalkingPlace.Data.Configurations
 {
-    using AspNetCoreTemplate.Data.Models;
+    using MyTalkingPlace.Data.Models;
     using Microsoft.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore.Metadata.Builders;
 

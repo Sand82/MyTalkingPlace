@@ -1,4 +1,4 @@
-﻿namespace AspNetCoreTemplate.Web.ViewModels
+﻿namespace MyTalkingPlace.Web.ViewModels
 {
     public class ErrorViewModel
     {

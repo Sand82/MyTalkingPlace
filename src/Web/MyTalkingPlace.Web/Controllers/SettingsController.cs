@@ -1,12 +1,12 @@
-﻿namespace AspNetCoreTemplate.Web.Controllers
+﻿namespace MyTalkingPlace.Web.Controllers
 {
     using System;
     using System.Threading.Tasks;
 
-    using AspNetCoreTemplate.Data.Common.Repositories;
-    using AspNetCoreTemplate.Data.Models;
-    using AspNetCoreTemplate.Services.Data;
-    using AspNetCoreTemplate.Web.ViewModels.Settings;
+    using MyTalkingPlace.Data.Common.Repositories;
+    using MyTalkingPlace.Data.Models;
+    using MyTalkingPlace.Services.Data;
+    using MyTalkingPlace.Web.ViewModels.Settings;
 
     using Microsoft.AspNetCore.Mvc;
 

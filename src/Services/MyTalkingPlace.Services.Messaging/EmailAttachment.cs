@@ -1,4 +1,4 @@
-﻿namespace AspNetCoreTemplate.Services.Messaging
+﻿namespace MyTalkingPlace.Services.Messaging
 {
     public class EmailAttachment
     {

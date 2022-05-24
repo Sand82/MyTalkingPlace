@@ -1,13 +1,13 @@
-﻿namespace AspNetCoreTemplate.Services.Data.Tests
+﻿namespace MyTalkingPlace.Services.Data.Tests
 {
     using System.Collections.Generic;
     using System.Linq;
     using System.Threading.Tasks;
 
-    using AspNetCoreTemplate.Data;
-    using AspNetCoreTemplate.Data.Common.Repositories;
-    using AspNetCoreTemplate.Data.Models;
-    using AspNetCoreTemplate.Data.Repositories;
+    using MyTalkingPlace.Data;
+    using MyTalkingPlace.Data.Common.Repositories;
+    using MyTalkingPlace.Data.Models;
+    using MyTalkingPlace.Data.Repositories;
 
     using Microsoft.EntityFrameworkCore;
 

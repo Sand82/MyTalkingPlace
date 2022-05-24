@@ -1,7 +1,7 @@
-﻿namespace AspNetCoreTemplate.Web.Areas.Administration.Controllers
+﻿namespace MyTalkingPlace.Web.Areas.Administration.Controllers
 {
-    using AspNetCoreTemplate.Services.Data;
-    using AspNetCoreTemplate.Web.ViewModels.Administration.Dashboard;
+    using MyTalkingPlace.Services.Data;
+    using MyTalkingPlace.Web.ViewModels.Administration.Dashboard;
 
     using Microsoft.AspNetCore.Mvc;
 

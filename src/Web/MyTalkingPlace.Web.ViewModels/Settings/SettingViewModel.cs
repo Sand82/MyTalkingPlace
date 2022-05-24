@@ -1,7 +1,7 @@
-﻿namespace AspNetCoreTemplate.Web.ViewModels.Settings
+﻿namespace MyTalkingPlace.Web.ViewModels.Settings
 {
-    using AspNetCoreTemplate.Data.Models;
-    using AspNetCoreTemplate.Services.Mapping;
+    using MyTalkingPlace.Data.Models;
+    using MyTalkingPlace.Services.Mapping;
 
     using AutoMapper;
 

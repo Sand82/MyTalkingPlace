@@ -1,7 +1,7 @@
-﻿namespace AspNetCoreTemplate.Web.Areas.Administration.Controllers
+﻿namespace MyTalkingPlace.Web.Areas.Administration.Controllers
 {
-    using AspNetCoreTemplate.Common;
-    using AspNetCoreTemplate.Web.Controllers;
+    using MyTalkingPlace.Common;
+    using MyTalkingPlace.Web.Controllers;
 
     using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Mvc;

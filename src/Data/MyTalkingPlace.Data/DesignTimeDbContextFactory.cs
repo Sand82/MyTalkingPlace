@@ -1,4 +1,4 @@
-﻿namespace AspNetCoreTemplate.Data
+﻿namespace MyTalkingPlace.Data
 {
     using System.IO;
 

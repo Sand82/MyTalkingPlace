@@ -1,17 +1,17 @@
-﻿namespace AspNetCoreTemplate.Web
+﻿namespace MyTalkingPlace.Web
 {
     using System.Reflection;
 
-    using AspNetCoreTemplate.Data;
-    using AspNetCoreTemplate.Data.Common;
-    using AspNetCoreTemplate.Data.Common.Repositories;
-    using AspNetCoreTemplate.Data.Models;
-    using AspNetCoreTemplate.Data.Repositories;
-    using AspNetCoreTemplate.Data.Seeding;
-    using AspNetCoreTemplate.Services.Data;
-    using AspNetCoreTemplate.Services.Mapping;
-    using AspNetCoreTemplate.Services.Messaging;
-    using AspNetCoreTemplate.Web.ViewModels;
+    using MyTalkingPlace.Data;
+    using MyTalkingPlace.Data.Common;
+    using MyTalkingPlace.Data.Common.Repositories;
+    using MyTalkingPlace.Data.Models;
+    using MyTalkingPlace.Data.Repositories;
+    using MyTalkingPlace.Data.Seeding;
+    using MyTalkingPlace.Services.Data;
+    using MyTalkingPlace.Services.Mapping;
+    using MyTalkingPlace.Services.Messaging;
+    using MyTalkingPlace.Web.ViewModels;
 
     using Microsoft.AspNetCore.Builder;
     using Microsoft.AspNetCore.Hosting;
@@ -20,7 +20,7 @@
     using Microsoft.EntityFrameworkCore;
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.DependencyInjection;
-    using Microsoft.Extensions.Hosting;
+    using Microsoft.Extensions.Hosting;   
 
     public class Startup
     {

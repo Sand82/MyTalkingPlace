@@ -1,9 +1,9 @@
-﻿namespace AspNetCoreTemplate.Data
+﻿namespace MyTalkingPlace.Data
 {
     using System;
     using System.Threading.Tasks;
 
-    using AspNetCoreTemplate.Data.Common;
+    using MyTalkingPlace.Data.Common;
 
     using Microsoft.EntityFrameworkCore;
 

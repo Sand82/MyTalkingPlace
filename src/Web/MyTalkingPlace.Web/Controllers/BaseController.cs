@@ -1,4 +1,4 @@
-﻿namespace AspNetCoreTemplate.Web.Controllers
+﻿namespace MyTalkingPlace.Web.Controllers
 {
     using Microsoft.AspNetCore.Mvc;
 

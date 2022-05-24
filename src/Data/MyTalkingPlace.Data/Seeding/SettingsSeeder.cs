@@ -1,10 +1,10 @@
-﻿namespace AspNetCoreTemplate.Data.Seeding
+﻿namespace MyTalkingPlace.Data.Seeding
 {
     using System;
     using System.Linq;
     using System.Threading.Tasks;
 
-    using AspNetCoreTemplate.Data.Models;
+    using MyTalkingPlace.Data.Models;
 
     internal class SettingsSeeder : ISeeder
     {

@@ -1,8 +1,8 @@
-﻿namespace AspNetCoreTemplate.Data
+﻿namespace MyTalkingPlace.Data
 {
     using System.Linq;
 
-    using AspNetCoreTemplate.Data.Common.Models;
+    using MyTalkingPlace.Data.Common.Models;
 
     using Microsoft.EntityFrameworkCore;
 

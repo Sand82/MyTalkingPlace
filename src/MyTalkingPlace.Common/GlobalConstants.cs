@@ -1,4 +1,4 @@
-﻿namespace AspNetCoreTemplate.Common
+﻿namespace MyTalkingPlace.Common
 {
     public static class GlobalConstants
     {

@@ -5,14 +5,14 @@
     using System.IO;
     using System.Threading.Tasks;
 
-    using AspNetCoreTemplate.Data;
-    using AspNetCoreTemplate.Data.Common;
-    using AspNetCoreTemplate.Data.Common.Repositories;
-    using AspNetCoreTemplate.Data.Models;
-    using AspNetCoreTemplate.Data.Repositories;
-    using AspNetCoreTemplate.Data.Seeding;
-    using AspNetCoreTemplate.Services.Data;
-    using AspNetCoreTemplate.Services.Messaging;
+    using MyTalkingPlace.Data;
+    using MyTalkingPlace.Data.Common;
+    using MyTalkingPlace.Data.Common.Repositories;
+    using MyTalkingPlace.Data.Models;
+    using MyTalkingPlace.Data.Repositories;
+    using MyTalkingPlace.Data.Seeding;
+    using MyTalkingPlace.Services.Data;
+    using MyTalkingPlace.Services.Messaging;
 
     using CommandLine;
 

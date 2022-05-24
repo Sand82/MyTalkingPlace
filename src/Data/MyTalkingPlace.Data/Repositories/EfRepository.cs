@@ -1,10 +1,10 @@
-﻿namespace AspNetCoreTemplate.Data.Repositories
+﻿namespace MyTalkingPlace.Data.Repositories
 {
     using System;
     using System.Linq;
     using System.Threading.Tasks;
 
-    using AspNetCoreTemplate.Data.Common.Repositories;
+    using MyTalkingPlace.Data.Common.Repositories;
 
     using Microsoft.EntityFrameworkCore;
 

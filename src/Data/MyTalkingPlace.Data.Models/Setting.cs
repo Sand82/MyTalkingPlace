@@ -1,6 +1,6 @@
-﻿namespace AspNetCoreTemplate.Data.Models
+﻿namespace MyTalkingPlace.Data.Models
 {
-    using AspNetCoreTemplate.Data.Common.Models;
+    using MyTalkingPlace.Data.Common.Models;
 
     public class Setting : BaseDeletableModel<int>
     {
